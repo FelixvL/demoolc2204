@@ -1,1 +1,5 @@
 // Yes daar gaan we
+
+config --global user.email "emailgithub"
+
+nieuwe dingen
